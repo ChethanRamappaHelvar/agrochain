@@ -1,0 +1,43 @@
+// Simple multi-language labels (English / Kannada) stored as JSON
+export const LANG = {
+  en: {
+    home: "Home",
+    products: "Products",
+    farmers: "Farmers",
+    harvests: "Future Harvests",
+    bulk: "Bulk Market",
+    prices: "Market Prices",
+    about: "About",
+    login: "Login",
+    register: "Register",
+    logout: "Logout",
+    cart: "Cart",
+    dashboard: "Dashboard",
+    contact: "Contact",
+    heroTitle: "Empowering Farmers. Connecting Markets.",
+    heroText:
+      "Buy fresh agricultural products directly from farmers, discover future harvests and connect agricultural businesses with producers through one digital marketplace.",
+    explore: "Explore Marketplace",
+    sell: "Sell Your Produce",
+  },
+  kn: {
+    home: "ಮುಖಪುಟ",
+    products: "ಉತ್ಪನ್ನಗಳು",
+    farmers: "ರೈತರು",
+    harvests: "ಮುಂದಿನ ಕೊಯ್ಲು",
+    bulk: "ಸಗಟು ಮಾರುಕಟ್ಟೆ",
+    prices: "ಮಾರುಕಟ್ಟೆ ಬೆಲೆಗಳು",
+    about: "ನಮ್ಮ ಬಗ್ಗೆ",
+    login: "ಲಾಗಿನ್",
+    register: "ನೋಂದಣಿ",
+    logout: "ಲಾಗ್ ಔಟ್",
+    cart: "ಕಾರ್ಟ್",
+    dashboard: "ಡ್ಯಾಶ್‌ಬೋರ್ಡ್",
+    contact: "ಸಂಪರ್ಕಿಸಿ",
+    heroTitle: "ರೈತರಿಗೆ ಶಕ್ತಿ. ಮಾರುಕಟ್ಟೆಗೆ ಸಂಪರ್ಕ.",
+    heroText:
+      "ರೈತರಿಂದ ನೇರವಾಗಿ ತಾಜಾ ಕೃಷಿ ಉತ್ಪನ್ನಗಳನ್ನು ಖರೀದಿಸಿ, ಮುಂದಿನ ಕೊಯ್ಲನ್ನು ಕಾಯ್ದಿರಿಸಿ ಮತ್ತು ವ್ಯಾಪಾರಗಳನ್ನು ರೈತರೊಂದಿಗೆ ಸಂಪರ್ಕಿಸಿ.",
+    explore: "ಮಾರುಕಟ್ಟೆ ನೋಡಿ",
+    sell: "ನಿಮ್ಮ ಉತ್ಪನ್ನ ಮಾರಿ",
+  },
+};

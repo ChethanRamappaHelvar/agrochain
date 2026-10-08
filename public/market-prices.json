@@ -1,0 +1,23 @@
+[
+  {"name":"Tomato","category":"Vegetables","price":32,"unit":"KG","trend":"up"},
+  {"name":"Onion","category":"Vegetables","price":28,"unit":"KG","trend":"down"},
+  {"name":"Potato","category":"Vegetables","price":24,"unit":"KG","trend":"flat"},
+  {"name":"Carrot","category":"Vegetables","price":42,"unit":"KG","trend":"up"},
+  {"name":"Cabbage","category":"Vegetables","price":20,"unit":"KG","trend":"down"},
+  {"name":"Beans","category":"Vegetables","price":58,"unit":"KG","trend":"up"},
+  {"name":"Capsicum","category":"Vegetables","price":62,"unit":"KG","trend":"flat"},
+  {"name":"Mango","category":"Fruits","price":85,"unit":"KG","trend":"up"},
+  {"name":"Banana","category":"Fruits","price":40,"unit":"KG","trend":"flat"},
+  {"name":"Pomegranate","category":"Fruits","price":120,"unit":"KG","trend":"up"},
+  {"name":"Rice","category":"Grains","price":55,"unit":"KG","trend":"flat"},
+  {"name":"Wheat","category":"Grains","price":32,"unit":"KG","trend":"down"},
+  {"name":"Ragi","category":"Grains","price":46,"unit":"KG","trend":"up"},
+  {"name":"Maize","category":"Grains","price":22,"unit":"KG","trend":"flat"},
+  {"name":"Toor Dal","category":"Pulses","price":135,"unit":"KG","trend":"up"},
+  {"name":"Moong Dal","category":"Pulses","price":110,"unit":"KG","trend":"flat"},
+  {"name":"Organic Turmeric","category":"Spices","price":98,"unit":"KG","trend":"up"},
+  {"name":"Black Pepper","category":"Spices","price":540,"unit":"KG","trend":"up"},
+  {"name":"Jasmine","category":"Flowers","price":300,"unit":"KG","trend":"flat"},
+  {"name":"Coconut","category":"Plantation Crops","price":30,"unit":"Piece","trend":"flat"},
+  {"name":"Organic Honey","category":"Organic Products","price":460,"unit":"KG","trend":"flat"}
+]
